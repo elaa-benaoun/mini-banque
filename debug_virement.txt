@@ -1,0 +1,21 @@
+=== 2026-05-01 14:04:36 ===
+INPUT: {"email_destinataire":"elaa@example.com","montant":100}
+MONTANT: 100
+USER_ID: 1
+
+=== 2026-05-01 14:07:12 ===
+USER_ID: 1
+EMAIL: jean@example.com
+SOLDE_DB_RAW: 0.00 (type: string)
+SOLDE_FLOAT: 0
+MONTANT: 100
+COMPARAISON: 0 >= 100 = FALSE
+
+=== 2026-05-01 14:14:07 ===
+USER_ID: 1
+EMAIL: jean@example.com
+SOLDE_DB_RAW: 1300.00 (type: string)
+SOLDE_FLOAT: 1300
+MONTANT: 100
+COMPARAISON: 1300 >= 100 = TRUE
+

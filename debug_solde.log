@@ -1,0 +1,430 @@
+=== 2026-05-01 20:53:04 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1000.00
+)
+
+SOLDE: 1000
+RÉPONSE: {"success":true,"solde":1000,"solde_formatted":"1000.00"}
+=== 2026-05-01 20:53:20 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-01 20:53:28 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-01 20:53:41 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1400.00
+)
+
+SOLDE: 1400
+RÉPONSE: {"success":true,"solde":1400,"solde_formatted":"1400.00"}
+=== 2026-05-01 20:57:33 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1400.00
+)
+
+SOLDE: 1400
+RÉPONSE: {"success":true,"solde":1400,"solde_formatted":"1400.00"}
+=== 2026-05-01 20:57:42 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-01 20:58:29 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-01 20:59:41 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-01 21:39:36 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-01 21:39:52 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-01 21:41:01 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-01 22:45:53 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-01 22:47:35 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-01 22:55:47 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-01 22:55:49 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-01 22:55:58 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-01 22:56:07 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-01 22:56:14 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-01 22:56:15 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-01 22:56:18 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-01 22:56:20 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-02 10:31:46 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-02 10:32:03 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 700.00
+)
+
+SOLDE: 700
+RÉPONSE: {"success":true,"solde":700,"solde_formatted":"700.00"}
+=== 2026-05-02 10:32:15 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 700.00
+)
+
+SOLDE: 700
+RÉPONSE: {"success":true,"solde":700,"solde_formatted":"700.00"}
+=== 2026-05-02 10:32:39 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1500.00
+)
+
+SOLDE: 1500
+RÉPONSE: {"success":true,"solde":1500,"solde_formatted":"1500.00"}
+=== 2026-05-02 10:33:09 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1500.00
+)
+
+SOLDE: 1500
+RÉPONSE: {"success":true,"solde":1500,"solde_formatted":"1500.00"}
+=== 2026-05-02 10:33:10 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1500.00
+)
+
+SOLDE: 1500
+RÉPONSE: {"success":true,"solde":1500,"solde_formatted":"1500.00"}
+=== 2026-05-02 10:33:29 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1399.50
+)
+
+SOLDE: 1399.5
+RÉPONSE: {"success":true,"solde":1399.5,"solde_formatted":"1399.50"}
+=== 2026-05-02 10:40:36 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1399.50
+)
+
+SOLDE: 1399.5
+RÉPONSE: {"success":true,"solde":1399.5,"solde_formatted":"1399.50"}
+=== 2026-05-02 10:47:43 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1399.50
+)
+
+SOLDE: 1399.5
+RÉPONSE: {"success":true,"solde":1399.5,"solde_formatted":"1399.50"}
+=== 2026-05-02 10:47:50 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1299.50
+)
+
+SOLDE: 1299.5
+RÉPONSE: {"success":true,"solde":1299.5,"solde_formatted":"1299.50"}
+=== 2026-05-02 10:48:14 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1199.50
+)
+
+SOLDE: 1199.5
+RÉPONSE: {"success":true,"solde":1199.5,"solde_formatted":"1199.50"}
+=== 2026-05-02 10:48:24 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-02 10:48:41 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 700.00
+)
+
+SOLDE: 700
+RÉPONSE: {"success":true,"solde":700,"solde_formatted":"700.00"}
+=== 2026-05-02 10:48:52 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 800.00
+)
+
+SOLDE: 800
+RÉPONSE: {"success":true,"solde":800,"solde_formatted":"800.00"}
+=== 2026-05-02 19:03:58 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1299.50
+)
+
+SOLDE: 1299.5
+RÉPONSE: {"success":true,"solde":1299.5,"solde_formatted":"1299.50"}
+=== 2026-05-02 19:04:17 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1299.50
+)
+
+SOLDE: 1299.5
+RÉPONSE: {"success":true,"solde":1299.5,"solde_formatted":"1299.50"}
+=== 2026-05-02 19:04:39 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1199.50
+)
+
+SOLDE: 1199.5
+RÉPONSE: {"success":true,"solde":1199.5,"solde_formatted":"1199.50"}
+=== 2026-05-02 19:04:49 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 900.00
+)
+
+SOLDE: 900
+RÉPONSE: {"success":true,"solde":900,"solde_formatted":"900.00"}
+=== 2026-05-02 19:05:13 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1199.50
+)
+
+SOLDE: 1199.5
+RÉPONSE: {"success":true,"solde":1199.5,"solde_formatted":"1199.50"}
+=== 2026-05-02 19:05:53 ===
+USER_ID: 12
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1099.50
+)
+
+SOLDE: 1099.5
+RÉPONSE: {"success":true,"solde":1099.5,"solde_formatted":"1099.50"}
+=== 2026-05-02 19:05:59 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1000.00
+)
+
+SOLDE: 1000
+RÉPONSE: {"success":true,"solde":1000,"solde_formatted":"1000.00"}
+=== 2026-05-02 19:06:36 ===
+USER_ID: 1
+QUERY EXÉCUTÉE
+RÉSULTAT: Array
+(
+    [solde] => 1000.00
+)
+
+SOLDE: 1000
+RÉPONSE: {"success":true,"solde":1000,"solde_formatted":"1000.00"}
